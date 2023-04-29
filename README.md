@@ -11,7 +11,7 @@
 <b><h2>Proje Özeti:</h2></b>HASTA DOKTOR VE SEKRETER OLARAK ÜÇ TANE GİRİŞİMİZ OLACAK.Her birisi kendi butonuyla giriş yaptıktan sonra kendi ile ilgili işlemleri yapabilecektir.BU proje dil olarak C# Veritabanı olarak MSSQL kullanılmıştır.<br><hr>
 ![](girisler.jpg)
 <br>
-<b><h2>USE CASE DİAGRAM:</b>/h2>
+<b><h2>USE CASE DİAGRAM:</b></h2>
 ![](usecase.jpg)
 <br>
 
